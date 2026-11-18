@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/1pf7bngf4bfyo.css","style"]
+:HL["/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"eurojack-2026","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"work","h":96,"c":"$Q2"}]]
+0:{"b":"FF-bHfj5tIjT2d6JC8Sno","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
